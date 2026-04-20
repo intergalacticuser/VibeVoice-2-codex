@@ -2,6 +2,12 @@
 
 Open-source voice control layer for Codex built on top of Microsoft's MIT-licensed VibeVoice runtime.
 
+> We wanted Codex to talk.
+>  
+> So we wired it into VibeVoice, taught it how to follow the active chat, gave it a menu bar, queue controls, shutdown controls, Apple Silicon support, and enough runtime discipline to survive real coding sessions.
+>  
+> During testing we also discovered a cursed bonus behavior: on some long outputs the model occasionally ends an otherwise normal sentence by transforming into a full infernal shriek from the underworld. If you have seen that too, please let us know, because it is objectively hilarious and deeply unsettling.
+
 This project turns Codex into a spoken coding assistant:
 
 - live voice for `Codex Desktop` replies via an active-chat watcher
