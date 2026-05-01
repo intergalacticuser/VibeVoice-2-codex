@@ -143,6 +143,10 @@ Run the local test suite:
 ./.venv/bin/python -m unittest discover -s tests
 ```
 
+## Contributors
+
+- [intergalacticuser](https://github.com/intergalacticuser) - project creator and maintainer
+
 ## Attribution
 
 This project is built on top of [Microsoft VibeVoice](https://github.com/microsoft/VibeVoice), which is MIT licensed. This repository keeps the upstream license and adds the Codex voice bridge, desktop watcher, Apple MLX worker flow, and macOS menu bar controls as an open-source integration layer.
